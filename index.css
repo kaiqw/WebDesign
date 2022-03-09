@@ -1,0 +1,42 @@
+
+h1.alinhamento {
+    text-align:center;
+}
+
+h2 {
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+    
+    
+}
+.colorBG{
+    background-color: #dac6c6;
+}
+.header{
+    background-color: #e65c00;
+}
+.body{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.img-edit{
+    border-radius: 50%;
+}
+
+p{
+    text-align: center;
+    text-align: justify;
+    font-size: large;
+
+}
+.format{
+    
+    text-align: center;
+    width: 1000px;
+    height: 900px;
+    background-color: rgb(177, 194, 162);
+    margin-left: 200px;
+
+}
